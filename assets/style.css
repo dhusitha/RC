@@ -1,0 +1,11 @@
+body{
+    color: rgb(142, 60, 31);
+}
+.innerbox{
+    color: azure;
+    padding: 50px;
+}
+#familyMembers{
+    color: blue;
+    font-size: 60px;
+}
