@@ -1,11 +1,18 @@
 body{
-    color: rgb(142, 60, 31);
+    background-color: rgb(242, 242, 213);
 }
-.innerbox{
-    color: azure;
+h1{
+    color: black;
+}
+.innerbox1{
+    padding: 20px;
+    background-color: blueviolet;
+}
+.innerbox2{
     padding: 50px;
+    background-color: rgb(255, 126, 195);
+    
 }
 #familyMembers{
-    color: blue;
-    font-size: 60px;
+    color: brown;
 }
